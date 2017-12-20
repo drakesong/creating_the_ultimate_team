@@ -46,7 +46,12 @@ Using Machine Learning techniques learned in class over the semester, create the
 ###### Data Sources:
 1. Match and player data
     * https://www.kaggle.com/hugomathien/soccer
+      * ODbL v1.0
+      * https://opendatacommons.org/licenses/odbl/1.0/
 2. FIFA18 data
     * https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset
+      * CC BY-NC-SA 4.0
+      * https://creativecommons.org/licenses/by-nc-sa/4.0/
 3. UEFA Team of the Year data
     * http://toty.uefa.com/en/history
+
